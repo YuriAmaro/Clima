@@ -1,5 +1,5 @@
 //Variáveis e seleção de elementos
-
+const apiKey = '57b6573592731570e99dea4a9afaa911'; 
 const apiCountryURL = "https://countryflagsapi.com/png/";
 const apiUnsplash = "https://source.unsplash.com/1600x900/?";
 
